@@ -29,10 +29,10 @@ You can obtain the code in two ways:
 
 Option 1: Download as ZIP
 
-1.1. Go to the repository page: [https://github.com/mlizhangx/Network-Subsampling.git]
-2.1. Click the green **"Code"** button, then select **"Download ZIP"**
-1.3. Extract the ZIP file on your computer
-1.4. Open the folder in your preferred editor (e.g., VSCode)
+-1.1. Go to the repository page: [https://github.com/mlizhangx/Network-Subsampling.git]
+-1.2. Click the green **"Code"** button, then select **"Download ZIP"**
+-1.3. Extract the ZIP file on your computer
+-1.4. Open the folder in your preferred editor (e.g., VSCode)
 
 Option 2: Clone via Git (for users familiar with Git)
 
