@@ -23,7 +23,7 @@ This repository contains a Python-based data analysis workflow developed in Jupy
 - All dependencies are listed in `requirements.txt`
 
 ## How to Use
-1. Getting Started
+**1. Getting Started**
 
 You can obtain the code in two ways:
 
@@ -40,9 +40,12 @@ Option 2: Clone via Git (for users familiar with Git)
 git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
 ```
-2. pip install -r requirements.txt
 
-3. Launch Jupyter and open the notebooks
+**2. Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+**3. Launch Jupyter and open the notebooks**
 
 Additional Notes
 helper.py includes commonly used utility functions.
