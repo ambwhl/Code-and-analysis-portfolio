@@ -1,5 +1,4 @@
 # Network-Subsampling
-# Project Title
 
 This repository contains a Python-based data analysis workflow developed in Jupyter Notebook. It includes auxiliary scripts and modularized components to support reproducibility and extensibility.
 
