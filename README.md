@@ -14,9 +14,8 @@ This repository contains a Python-based data analysis workflow developed in Jupy
 │ └── portrait_divergence.py
 ├── requirements.txt # List of required Python packages
 └── README.md # This documentation file
-
 ```
-
+---
 ##  Environment
 
 - Python version: **3.12.2**
