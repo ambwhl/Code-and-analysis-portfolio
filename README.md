@@ -41,7 +41,7 @@ Option 2: Clone via Git (for users familiar with Git)
 ```bash
 git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
- 
+```
 2. pip install -r requirements.txt
 
 3. Launch Jupyter and open the notebooks
