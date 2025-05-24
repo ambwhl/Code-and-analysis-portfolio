@@ -48,8 +48,8 @@ pip install -r requirements.txt
 **3. Launch Jupyter and open the notebooks**
 
 Additional Notes
-helper.py includes commonly used utility functions.
-The Graph_Sampling/ folder contains Python files for extended functionality, which can be imported in notebooks.
+- helper.py includes commonly used utility functions.
+- The Graph_Sampling/ folder contains Python files for extended functionality, which can be imported in notebooks.
 
 
 
