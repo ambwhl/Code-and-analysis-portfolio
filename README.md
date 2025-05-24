@@ -3,11 +3,8 @@
 This repository contains a Python-based data analysis workflow developed in Jupyter Notebook. It includes auxiliary scripts and modularized components to support reproducibility and extensibility.
 
 ---
-```
 ##  Project Structure
-
-
-
+```
 ├──01_Direct_SubSampling.ipynb # Direct subsampling notebook
 ├──02_Combined_Subsampling.ipynb #Combined subsampling notebook
 ├──helper.py # Helper functions used in notebooks
