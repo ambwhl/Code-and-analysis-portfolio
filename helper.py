@@ -98,7 +98,7 @@ def create_sampler_and_do_sampling(graph, n= 100, sub_method = "SRW"):
 ## -----------------------------------------------------------------------
 def do_sampling_for_a_sample_percent_list(graph, sample_size_percent_l, percent_indi = True, 
                                           sub_method = "MH", 
-                                          output_dir = "D:/2023/00_Summer_intern/UCSF/NetworkSubsampling/Result/Subsampling/002-001-Subsampling/", 
+                                          output_dir = "./", 
                                           induce=False):
     """
     sample_size_percent_l (vector): vector of sample_size or percentage_of_number_of nodes taht we want to subsample
