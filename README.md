@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Additional Notes
 - helper.py includes commonly used utility functions.
-- The Graph_Sampling/ folder contains Python files for extended functionality, which can be imported in notebooks.
+- The Graph_Sampling/ folder contains Python files for extended functionality, which can be imported in notebooks. Modified based on https://github.com/Ashish7129/Graph_Sampling.
 
 
 
