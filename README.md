@@ -3,7 +3,7 @@
 This repository contains a Python-based data analysis workflow developed in Jupyter Notebook. It includes auxiliary scripts and modularized components to support reproducibility and extensibility.
 Modified from: https://github.com/Ashish7129/Graph_Sampling
 Original Author: Ashish Aggarwal (MIT License)
-
+We thank Ashish Aggarwal for the open-source release of the Graph_Sampling code (MIT License), which formed the basis for our modified implementation.
 
 ---
 ##  Project Structure
