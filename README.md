@@ -1,8 +1,8 @@
 # Network-Subsampling
 
 This repository contains a Python-based data analysis workflow developed in Jupyter Notebook. It includes auxiliary scripts and modularized components to support reproducibility and extensibility.
-# Modified from: https://github.com/Ashish7129/Graph_Sampling
-# Original Author: Ashish Aggarwal (MIT License)
+Modified from: https://github.com/Ashish7129/Graph_Sampling
+Original Author: Ashish Aggarwal (MIT License)
 
 
 ---
