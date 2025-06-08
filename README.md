@@ -4,6 +4,7 @@
 - You can find the introduction to the main body of code applied in this project in "MainCode".
 - You can find the introduction to the supportive code applied in this project in "SupportiveCode".
 - Most of work was done in python and R, using Jupiter NoteBook.
-- Example for visulization:
+- Example for visualization:
+-- Portrait Divergence:
 - <img width="324" alt="image" src="https://github.com/user-attachments/assets/b0f25e5b-96ec-4535-b706-60780389976b" />
 
