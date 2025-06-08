@@ -5,7 +5,7 @@
 - You can find the introduction to the supportive code applied in this project in "SupportiveCode".
 - Most of work was done in python and R, using Jupiter NoteBook.
 - Example for visualization:
-![image](https://github.com/user-attachments/assets/bdde80c6-add8-4248-b3c4-39c6f593be06)
+- ![image](https://github.com/user-attachments/assets/bdde80c6-add8-4248-b3c4-39c6f593be06)
 
 
 
