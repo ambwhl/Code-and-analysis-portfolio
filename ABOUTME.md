@@ -1,0 +1,2 @@
+Passionate Bioinformatics/data analysis professional with over 4 years` experience in industry, focusing on cancer patient NGS data analysis and its clinical interpretation, analysis platform and auto-pipeline programming using python and perl, proposal and development of new analysis/prediction algorithm/method (ex: machine learning, etc;.); 
+11 years` academic research experience, involving human genetics, NGS, cancer immunology, Network subsampling,cancer microenvironment, DDS (drug delivery system), dendritic cell therapy development. 
