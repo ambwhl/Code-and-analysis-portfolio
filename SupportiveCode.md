@@ -1,0 +1,3 @@
+- DataClean.ipynb is for clean the raw input TCR data before analysis
+- Visulization.ipynb is for visulizing the results,icnluding Portrait divergence with subsampling percentage increase.
+- Effectsize.ipynb is for calculate the direction and maginitude change between 2 timepoints, ex: before and after treatment, using cohen's d value.
