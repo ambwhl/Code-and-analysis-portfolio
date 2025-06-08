@@ -5,6 +5,9 @@
 - You can find the introduction to the supportive code applied in this project in "SupportiveCode".
 - Most of work was done in python and R, using Jupiter NoteBook.
 - Example for visualization:
-  Portrait Divergence:
+-Portrait Divergence:
  <img width="324" alt="image" src="https://github.com/user-attachments/assets/b0f25e5b-96ec-4535-b706-60780389976b" />
+- Heatmap for network difference:
+  ![image](https://github.com/user-attachments/assets/154f2440-2d3f-49a0-8855-69337a18f40e)
+
 
