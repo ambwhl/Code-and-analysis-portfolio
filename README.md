@@ -8,7 +8,8 @@
 -Portrait Divergence:
  <img width="324" alt="image" src="https://github.com/user-attachments/assets/b0f25e5b-96ec-4535-b706-60780389976b" />
 - Heatmap for network difference:
-![image](https://github.com/user-attachments/assets/c97cfa56-c3cc-4aae-a72a-76dcb89841d0)
+-![image](https://github.com/user-attachments/assets/47f16a42-a564-4d7f-86d2-0f13289a578b)
+
 
 
 
